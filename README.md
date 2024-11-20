@@ -5,3 +5,4 @@ Purpose:
 Working:
  The IR sensor at the entrance detects a coming car and will automatically showcases that there is a free slot in the parking lot but if the lot is full, then it’ll show empty space. When a vehicle leaves a slot and  arrives at the gate of the parking area then the IR sensor-2 detects that vehicle and the system open the servo barrier. Then it shows that the slot is empty. Again the system will allow entering a new vehicle. IR   Sensor will transmit the data to Arduino Board and further it will pass the data to USER through NodeMCU.
 ![image](https://github.com/user-attachments/assets/9cb415f3-1629-4445-ada2-a091c3661313)
+![image](https://github.com/user-attachments/assets/2ffecb1a-4f9a-4f59-93b6-98f0772f2ba2)
